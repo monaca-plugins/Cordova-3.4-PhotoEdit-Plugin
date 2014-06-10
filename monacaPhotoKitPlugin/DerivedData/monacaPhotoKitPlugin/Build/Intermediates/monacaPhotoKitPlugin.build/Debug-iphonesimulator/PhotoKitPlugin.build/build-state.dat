@@ -1,0 +1,199 @@
+TPhotoKitPlugin
+v7
+r1
+cCheck dependencies
+
+CBuild AST from /Users/mountainlion/Desktop/monacaPhotoKitPlugin/PhotoKitPlugin/PhotoEditingViewController.m
+r0
+
+CCheck dependencies
+r0
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesaab62be22b47b941^215637e22b47b941^---0#1#1#--18"Check dependencies36"F9FD1B21-44EB-48A5-8F96-0FD48B88F995-
+
+CCompileC DerivedData/monacaPhotoKitPlugin/Build/Intermediates/monacaPhotoKitPlugin.build/Debug-iphonesimulator/PhotoKitPlugin.build/Objects-normal/i386/PhotoEditingViewController.o /Users/mountainlion/Desktop/monacaPhotoKitPlugin/PhotoKitPlugin/PhotoEditingViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424094288.173169
+e424094289.862398
+r1
+xCompileC
+xDerivedData/monacaPhotoKitPlugin/Build/Intermediates/monacaPhotoKitPlugin.build/Debug-iphonesimulator/PhotoKitPlugin.build/Objects-normal/i386/PhotoEditingViewController.o
+x/Users/mountainlion/Desktop/monacaPhotoKitPlugin/PhotoKitPlugin/PhotoEditingViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/mountainlion/Desktop/monacaPhotoKitPlugin/PhotoKitPlugin/PhotoEditingViewController.m
+d/Users/mountainlion/Desktop/monacaPhotoKitPlugin/PhotoKitPlugin/PhotoEditingViewController.h
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/mountainlion/Desktop/monacaPhotoKitPlugin/PhotoKitPlugin/PhotoEditingViewController.m292"CompileC DerivedData/monacaPhotoKitPlugin/Build/Intermediates/monacaPhotoKitPlugin.build/Debug-iphonesimulator/PhotoKitPlugin.build/Objects-normal/i386/PhotoEditingViewController.o PhotoKitPlugin/PhotoEditingViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere7712c502a47b941^ebc9dc512a47b941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/mountainlion/Desktop/monacaPhotoKitPlugin/PhotoKitPlugin/PhotoEditingViewController.m0000000000000000^4769"CompileC DerivedData/monacaPhotoKitPlugin/Build/Intermediates/monacaPhotoKitPlugin.build/Debug-iphonesimulator/PhotoKitPlugin.build/Objects-normal/i386/PhotoEditingViewController.o PhotoKitPlugin/PhotoEditingViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/mountainlion/Desktop/monacaPhotoKitPlugin    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode6-Beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/ModuleCache -fmodules-prune-interval=86400 -fmodules-prune-after=345600 -Wnon-modular-include-in-framework-module -Werror=non-modular-include-in-framework-module -fapplication-extension -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wunreachable-code -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DDEBUG=1 -DOBJC_OLD_DISPATCH_PROTOTYPES=0 -isysroot /Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=8.0 -iquote /Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Intermediates/monacaPhotoKitPlugin.build/Debug-iphonesimulator/PhotoKitPlugin.build/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin-generated-files.hmap -I/Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Intermediates/monacaPhotoKitPlugin.build/Debug-iphonesimulator/PhotoKitPlugin.build/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin-own-target-headers.hmap -I/Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Intermediates/monacaPhotoKitPlugin.build/Debug-iphonesimulator/PhotoKitPlugin.build/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin-all-target-headers.hmap -iquote /Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Intermediates/monacaPhotoKitPlugin.build/Debug-iphonesimulator/PhotoKitPlugin.build/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin-project-headers.hmap -I/Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode6-Beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Intermediates/monacaPhotoKitPlugin.build/Debug-iphonesimulator/PhotoKitPlugin.build/DerivedSources/i386 -I/Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Intermediates/monacaPhotoKitPlugin.build/Debug-iphonesimulator/PhotoKitPlugin.build/DerivedSources -F/Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator -MMD -MT dependencies -MF /Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Intermediates/monacaPhotoKitPlugin.build/Debug-iphonesimulator/PhotoKitPlugin.build/Objects-normal/i386/PhotoEditingViewController.d --serialize-diagnostics /Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Intermediates/monacaPhotoKitPlugin.build/Debug-iphonesimulator/PhotoKitPlugin.build/Objects-normal/i386/PhotoEditingViewController.dia -c /Users/mountainlion/Desktop/monacaPhotoKitPlugin/PhotoKitPlugin/PhotoEditingViewController.m -o /Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Intermediates/monacaPhotoKitPlugin.build/Debug-iphonesimulator/PhotoKitPlugin.build/Objects-normal/i386/PhotoEditingViewController.o36"5164A627-A626-4887-AC3F-70875F2D4822-
+bFB5FA457-3FEF-4380-8409-24396B97B829
+
+CCompileStoryboard /Users/mountainlion/Desktop/monacaPhotoKitPlugin/PhotoKitPlugin/MainInterface.storyboard
+s424094291.198330
+e424094329.970661
+r1
+xCompileStoryboard
+x/Users/mountainlion/Desktop/monacaPhotoKitPlugin/PhotoKitPlugin/MainInterface.storyboard
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile Storyboard file /Users/mountainlion/Desktop/monacaPhotoKitPlugin/PhotoKitPlugin/MainInterface.storyboard57"CompileStoryboard PhotoKitPlugin/MainInterface.storyboard36e932532a47b941^997ff8792a47b941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/mountainlion/Desktop/monacaPhotoKitPlugin/PhotoKitPlugin/MainInterface.storyboard0000000000000000^1006"CompileStoryboard PhotoKitPlugin/MainInterface.storyboard    cd /Users/mountainlion/Desktop/monacaPhotoKitPlugin    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin/..    /Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --target-device iphone --errors --warnings --notices --module com_xoriant_monacaPhotoKitPlugin_PhotoKitPlugin --minimum-deployment-target 8.0 --output-format human-readable-text --compile /Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex/MainInterface.storyboardc /Users/mountainlion/Desktop/monacaPhotoKitPlugin/PhotoKitPlugin/MainInterface.storyboard36"9520C849-BE04-43AC-9460-6CE3F810793D-
+bFB5FA457-3FEF-4380-8409-24396B97B829
+
+CCopyPlistFile /Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex/Filters.plist PhotoKitPlugin/Filters.plist
+s424094291.198485
+e424094291.239330
+r1
+xCopyPlistFile
+x/Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex/Filters.plist
+xPhotoKitPlugin/Filters.plist
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Copy /Users/mountainlion/Desktop/monacaPhotoKitPlugin/PhotoKitPlugin/Filters.plist180"CopyPlistFile DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex/Filters.plist PhotoKitPlugin/Filters.plist57ed32532a47b941^39473d532a47b941^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/mountainlion/Desktop/monacaPhotoKitPlugin/PhotoKitPlugin/Filters.plist0000000000000000^698"CopyPlistFile DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex/Filters.plist PhotoKitPlugin/Filters.plist    cd /Users/mountainlion/Desktop/monacaPhotoKitPlugin    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyPlist --convert binary1 --outdir /Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex -- PhotoKitPlugin/Filters.plist36"E624A5D1-3571-4F07-80C1-B849A5546840-
+bFB5FA457-3FEF-4380-8409-24396B97B829
+
+CCpResource PhotoKitPlugin/chrome.jpg DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex/chrome.jpg
+s424094291.198730
+e424094291.238238
+r1
+xCpResource
+xPhotoKitPlugin/chrome.jpg
+xDerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex/chrome.jpg
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Copy /Users/mountainlion/Desktop/monacaPhotoKitPlugin/PhotoKitPlugin/chrome.jpg171"CpResource PhotoKitPlugin/chrome.jpg DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex/chrome.jpg3ffe32532a47b941^5c013d532a47b941^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/mountainlion/Desktop/monacaPhotoKitPlugin/PhotoKitPlugin/chrome.jpg0000000000000000^795"CpResource PhotoKitPlugin/chrome.jpg DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex/chrome.jpg    cd /Users/mountainlion/Desktop/monacaPhotoKitPlugin    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/mountainlion/Desktop/monacaPhotoKitPlugin/PhotoKitPlugin/chrome.jpg /Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex36"D41AA13F-E7A4-43B0-BF91-2B133140F78E-
+bFB5FA457-3FEF-4380-8409-24396B97B829
+
+CCpResource PhotoKitPlugin/instant.jpg DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex/instant.jpg
+s424094291.238565
+e424094291.240894
+r1
+xCpResource
+xPhotoKitPlugin/instant.jpg
+xDerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex/instant.jpg
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Copy /Users/mountainlion/Desktop/monacaPhotoKitPlugin/PhotoKitPlugin/instant.jpg173"CpResource PhotoKitPlugin/instant.jpg DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex/instant.jpg213d3d532a47b941^26ac3d532a47b941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/mountainlion/Desktop/monacaPhotoKitPlugin/PhotoKitPlugin/instant.jpg0000000000000000^798"CpResource PhotoKitPlugin/instant.jpg DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex/instant.jpg    cd /Users/mountainlion/Desktop/monacaPhotoKitPlugin    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/mountainlion/Desktop/monacaPhotoKitPlugin/PhotoKitPlugin/instant.jpg /Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex36"9B7A662D-560A-4BEF-AD94-E6CE4937F334-
+bFB5FA457-3FEF-4380-8409-24396B97B829
+
+CCpResource PhotoKitPlugin/invert.jpg DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex/invert.jpg
+s424094291.239154
+e424094291.301288
+r1
+xCpResource
+xPhotoKitPlugin/invert.jpg
+xDerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex/invert.jpg
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Copy /Users/mountainlion/Desktop/monacaPhotoKitPlugin/PhotoKitPlugin/invert.jpg171"CpResource PhotoKitPlugin/invert.jpg DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex/invert.jpg9b723d532a47b941^4f234d532a47b941^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/mountainlion/Desktop/monacaPhotoKitPlugin/PhotoKitPlugin/invert.jpg0000000000000000^795"CpResource PhotoKitPlugin/invert.jpg DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex/invert.jpg    cd /Users/mountainlion/Desktop/monacaPhotoKitPlugin    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/mountainlion/Desktop/monacaPhotoKitPlugin/PhotoKitPlugin/invert.jpg /Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex36"BBF41484-2E40-423A-91CA-3C912896872B-
+bFB5FA457-3FEF-4380-8409-24396B97B829
+
+CCpResource PhotoKitPlugin/posterize.jpg DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex/posterize.jpg
+s424094291.199100
+e424094291.238844
+r1
+xCpResource
+xPhotoKitPlugin/posterize.jpg
+xDerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex/posterize.jpg
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Copy /Users/mountainlion/Desktop/monacaPhotoKitPlugin/PhotoKitPlugin/posterize.jpg177"CpResource PhotoKitPlugin/posterize.jpg DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex/posterize.jpg4d1233532a47b941^42263d532a47b941^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/mountainlion/Desktop/monacaPhotoKitPlugin/PhotoKitPlugin/posterize.jpg0000000000000000^804"CpResource PhotoKitPlugin/posterize.jpg DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex/posterize.jpg    cd /Users/mountainlion/Desktop/monacaPhotoKitPlugin    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/mountainlion/Desktop/monacaPhotoKitPlugin/PhotoKitPlugin/posterize.jpg /Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex36"25EADB39-69F0-4777-B9AD-4EFD8B770EF1-
+bFB5FA457-3FEF-4380-8409-24396B97B829
+
+CCpResource PhotoKitPlugin/sepia.jpg DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex/sepia.jpg
+s424094291.239577
+e424094291.302351
+r1
+xCpResource
+xPhotoKitPlugin/sepia.jpg
+xDerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex/sepia.jpg
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Copy /Users/mountainlion/Desktop/monacaPhotoKitPlugin/PhotoKitPlugin/sepia.jpg169"CpResource PhotoKitPlugin/sepia.jpg DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex/sepia.jpg93703d532a47b941^147a4d532a47b941^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/mountainlion/Desktop/monacaPhotoKitPlugin/PhotoKitPlugin/sepia.jpg0000000000000000^792"CpResource PhotoKitPlugin/sepia.jpg DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex/sepia.jpg    cd /Users/mountainlion/Desktop/monacaPhotoKitPlugin    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/mountainlion/Desktop/monacaPhotoKitPlugin/PhotoKitPlugin/sepia.jpg /Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex36"3FE849FD-EF8B-4BEA-889E-985017F4F06A-
+bFB5FA457-3FEF-4380-8409-24396B97B829
+
+CGenerateDSYMFile /Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex.dSYM /Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin
+s424094290.818463
+e424094291.197732
+r1
+xGenerateDSYMFile
+x/Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex.dSYM
+x/Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection186"Generate /Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex.dSYM317"GenerateDSYMFile DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex.dSYM DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugina29bd1522a47b941^9d9f32532a47b941^---0#0#1#-19%DVTDocumentLocation2@184"file:///Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex.dSYM0034acfeddffdf42^1089"GenerateDSYMFile DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex.dSYM DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin    cd /Users/mountainlion/Desktop/monacaPhotoKitPlugin    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode6-Beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin -o /Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex.dSYM36"98ADDF8B-F584-41E3-A1C0-05594451C29D-
+bFB5FA457-3FEF-4380-8409-24396B97B829
+
+CLd /Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin normal i386
+s424094289.863443
+e424094290.798372
+r1
+xLd
+x/Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin
+xnormal
+xi386
+d/Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Intermediates/monacaPhotoKitPlugin.build/Debug-iphonesimulator/PhotoKitPlugin.build/Objects-normal/i386/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.LinkFileList
+d/Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Intermediates/monacaPhotoKitPlugin.build/Debug-iphonesimulator/PhotoKitPlugin.build/Objects-normal/i386/PhotoEditingViewController.o
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/libpkstart.a
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/System/Library/PrivateFrameworks/PlugInKit.framework/PlugInKit
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/System/Library/Frameworks/Photos.framework/Photos
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/System/Library/Frameworks/PhotosUI.framework/PhotosUI
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode6-Beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/6.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/System/Library/Frameworks/MediaToolbox.framework/MediaToolbox
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/System/Library/Frameworks/CoreMIDI.framework/CoreMIDI
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/liblaunch_sim.dylib
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libsystem_sim_coreservices.dylib
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libsystem_coretls.dylib
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libsystem_sim_kernel.dylib
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libsystem_sim_platform.dylib
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libsystem_sim_pthread.dylib
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libsystem_sim_sandbox.dylib
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libsystem_sim_trace.dylib
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/usr/lib/libextension.dylib
+d/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/System/Library/Frameworks/AVFoundation.framework/libAVFAudio.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection225"Link /Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin186"Ld DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin normal i386a62add512a47b941^2863cc522a47b941^---0#0#1#--2261"Ld DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin normal i386    cd /Users/mountainlion/Desktop/monacaPhotoKitPlugin    export IPHONEOS_DEPLOYMENT_TARGET=8.0    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode6-Beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk -L/Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator -F/Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator -filelist /Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Intermediates/monacaPhotoKitPlugin.build/Debug-iphonesimulator/PhotoKitPlugin.build/Objects-normal/i386/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.LinkFileList -Xlinker -rpath -Xlinker @executable_path/Frameworks -Xlinker -rpath -Xlinker @executable_path/../../Frameworks -Xlinker -objc_abi_version -Xlinker 2 -lpkstart /Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator8.0.sdk/System/Library/PrivateFrameworks/PlugInKit.framework/PlugInKit -fobjc-arc -fobjc-link-runtime -fapplication-extension -Xlinker -no_implicit_dylibs -mios-simulator-version-min=8.0 -framework Photos -framework PhotosUI -Xlinker -dependency_info -Xlinker /Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Intermediates/monacaPhotoKitPlugin.build/Debug-iphonesimulator/PhotoKitPlugin.build/Objects-normal/i386/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin_dependency_info.dat -o /Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin36"86CF4E08-A24C-4935-87A4-0FFE0D21096B-
+bFB5FA457-3FEF-4380-8409-24396B97B829
+
+CProcessInfoPlistFile /Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex/Info.plist /Users/mountainlion/Desktop/monacaPhotoKitPlugin/PhotoKitPlugin/Info.plist
+s424094288.169436
+e424094288.172496
+r1
+xProcessInfoPlistFile
+x/Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex/Info.plist
+x/Users/mountainlion/Desktop/monacaPhotoKitPlugin/PhotoKitPlugin/Info.plist
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Process /Users/mountainlion/Desktop/monacaPhotoKitPlugin/PhotoKitPlugin/Info.plist181"ProcessInfoPlistFile DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex/Info.plist PhotoKitPlugin/Info.plistd07b2b502a47b941^28292c502a47b941^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/mountainlion/Desktop/monacaPhotoKitPlugin/PhotoKitPlugin/Info.plist0000000000000000^798"ProcessInfoPlistFile DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex/Info.plist PhotoKitPlugin/Info.plist    cd /Users/mountainlion/Desktop/monacaPhotoKitPlugin    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/mountainlion/Desktop/monacaPhotoKitPlugin/PhotoKitPlugin/Info.plist -expandbuildsettings -format binary -platform iphonesimulator -o /Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex/Info.plist36"8F5B7063-FC04-4F36-99F5-B6A42E9B294F-
+bFB5FA457-3FEF-4380-8409-24396B97B829
+
+CTouch /Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex
+s424094329.971608
+e424094330.003926
+r1
+xTouch
+x/Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex
+lSLF07#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection178"Touch /Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex129"Touch DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex3acbf8792a47b941^7902017a2a47b941^---0#0#1#-19%DVTDocumentLocation2@180"file:///Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex/0000000000000000^588"Touch DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex    cd /Users/mountainlion/Desktop/monacaPhotoKitPlugin    export PATH="/Applications/Xcode6-Beta.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode6-Beta.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/mountainlion/Desktop/monacaPhotoKitPlugin/DerivedData/monacaPhotoKitPlugin/Build/Products/Debug-iphonesimulator/com.xoriant.monacaPhotoKitPlugin.PhotoKitPlugin.appex36"E522DEEA-58B8-4C37-9FEC-6FFCF5FC72E3-
+bFB5FA457-3FEF-4380-8409-24396B97B829
+
